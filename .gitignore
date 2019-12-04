@@ -1,4 +1,7 @@
-﻿*.class
+﻿.idea
+project/target
+/target
+*.class
 
 # BlueJ files
 *.ctxt
